@@ -1,3 +1,4 @@
+// 下面只是示例，生产环境请改掉，谢谢
 module.exports = {
 	verUrl:'http://120.26.200.225/upload/app/version',
 
